@@ -1,11 +1,11 @@
 # Test Project
 
-* Grupo
+### Grupo
 - Emanuel Honorio
 - Rafael Tobit
 - Felipe Bento
 
-## Casos de teste
+### Casos de teste
 
 | CT   | Entrada                | Saída esperada |
 |------|------------------------|----------------|
